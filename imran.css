@@ -1,0 +1,26 @@
+body{
+    background-image: linear-gradient(blue,yellow,cyan);
+    text-align: center;
+}
+div.main{
+    margin: 20px;
+    padding: 20px;
+    background-color: white;
+    border-radius: 40px;
+}
+img{
+    padding: 5px;
+    border: 2px solid;
+    border-color:rgb(96, 28, 255);
+    
+    height: 170px;
+    width: 170px;
+    border-radius: 100px;
+}
+ul{
+    text-align: center;
+    list-style: inside;
+}
+td{
+    color: yellow;
+}
